@@ -5,6 +5,14 @@ ruby '2.6.6'
 
 gem 'bootstrap', '~> 5.1.0'
 gem 'devise'
+
+gem 'activeadmin'
+
+# Plus integrations with:
+gem 'cancancan'
+gem 'draper'
+gem 'pundit'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.0.4', '>= 6.0.4.1'
 # Use postgresql as the database for Active Record
