@@ -1,0 +1,14 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: grey;
+  position: fixed;
+  top: 0px;
+  a {
+  	padding-left: 50vw;
+  }
+}
+
+a:hover {
+  color: black !important;
+}
